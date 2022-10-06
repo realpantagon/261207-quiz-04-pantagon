@@ -3,18 +3,31 @@
     "username": "admin1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": true,
-    "money": null
+    "money": 50000
   },
   {
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
-    "money": 1000
+    "money": 0
   },
   {
     "username": "user2",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false,
     "money": 500
+  },
+
+  {
+    "username": "user999",
+    "password": "$2b$12$.gK3btJqKjVQ26.PQWHlRux51D3wf9J/cEI5mUsiHLlapRuBuKZiq",
+    "isAdmin": false,
+    "money": 1800
+  },
+  {
+    "username": "user888",
+    "password": "$2b$12$DIRRGGOxh.SUrT8NhDrav.9kpG9WIGIx4eCQUFkaMAaD0fvKH24Pe",
+    "isAdmin": false,
+    "money": 0
   }
 ]
